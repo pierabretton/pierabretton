@@ -4,7 +4,7 @@
 
 I lead product work where **AI, customer behaviour, commercial strategy, and platform execution** come together. My focus is turning ambiguous opportunities into measurable product outcomes: the customer problem, the workflow, the data, the model behaviour, the evaluation plan, the operating risks, and the commercial result.
 
-At **The Economist**, I lead product strategy and execution across ecommerce, paywalls, pricing, checkout, payments, billing, and subscription management, working with four squads and 40+ cross-functional colleagues. My recent work includes a **£4M FY27 innovation agenda**, **£1M+ incremental revenue** from conversion improvements, **15% CLTV uplift**, **10% growth in subscription starts**, and **AI agent / LLM-assisted workflows** that reduced customer service AHT by **30%** and enabled **£500K+ annual savings**.
+At **The Economist**, I lead product strategy and execution across ecommerce, paywalls, pricing, checkout, payments, billing, and subscription management, working with four squads and 40+ cross-functional colleagues. My recent work includes a **£4M FY27 innovation agenda**, **£1M+ incremental revenue** from conversion improvements, **15% CLTV uplift**, **10% growth in subscription starts**, and **AI agent / LLM-assisted workflows** that reduced customer service AHT by **30%** and enabled annual savings.
 
 This GitHub is my public AI PM portfolio. It is not designed to present me as a software engineer. It is designed to show how I think as an AI Product leader: how I frame problems, shape product bets, evaluate AI quality, manage risk, and connect AI adoption to customer and business outcomes.
 
