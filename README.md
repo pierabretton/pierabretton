@@ -6,8 +6,6 @@ I lead product work where **AI, customer behaviour, commercial strategy, and pla
 
 At **The Economist**, I lead product strategy and execution across ecommerce, paywalls, pricing, checkout, payments, billing, and subscription management, working with four squads and 40+ cross-functional colleagues. My recent work includes a **£4M FY27 innovation agenda**, **£1M+ incremental revenue** from conversion improvements, **15% CLTV uplift**, **10% growth in subscription starts**, and **AI agent / LLM-assisted workflows** that reduced customer service AHT by **30%** and enabled annual savings.
 
-This GitHub is my public AI PM portfolio. It is not designed to present me as a software engineer. It is designed to show how I think as an AI Product leader: how I frame problems, shape product bets, evaluate AI quality, manage risk, and connect AI adoption to customer and business outcomes.
-
 ## AI Product Leadership Snapshot
 
 | Leadership area | What I bring |
@@ -44,6 +42,3 @@ I am especially interested in **agentic workflows, AI-assisted decision-making, 
 
 My latest AI PM leadership CV is available in this profile repository: **[`Piera_Bretton_AI_PM_Leader_CV_2026.pdf`](./Piera_Bretton_AI_PM_Leader_CV_2026.pdf)**.
 
----
-
-If you are building AI products where the hard part is not just the model, but the customer workflow, trust, adoption, operating model, and business case around it, I would be happy to connect.
