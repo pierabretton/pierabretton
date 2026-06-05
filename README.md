@@ -6,39 +6,47 @@ I lead product work where **AI, customer behaviour, commercial strategy, and pla
 
 At **The Economist**, I lead product strategy and execution across ecommerce, paywalls, pricing, checkout, payments, billing, and subscription management, working with four squads and 40+ cross-functional colleagues. My recent work includes a **£4M FY27 innovation agenda**, **£1M+ incremental revenue** from conversion improvements, **15% CLTV uplift**, **10% growth in subscription starts**, and **AI agent / LLM-assisted workflows** that reduced customer service AHT by **30%** and enabled annual savings.
 
+This GitHub is my public product evidence layer. It is not designed to present me as a software engineer. It is designed to show how I think as an **AI Product leader**: how I frame problems, shape product bets, use AI to improve product craft, evaluate quality, manage risk, and connect AI adoption to customer and business outcomes.
+
 ## AI Product Leadership Snapshot
 
 | Leadership area | What I bring |
 |---|---|
-| **AI product strategy** | I translate AI opportunities into clear product bets, user workflows, evaluation plans, guardrails, and measurable outcomes. |
+| **AI product strategy** | I use AI to amplify product craft, improve productivity, and sharpen strategic focus on the customer problems and commercial bets most worth solving — translating opportunities into workflows, evaluation plans, guardrails, and measurable outcomes. |
 | **Agentic and LLM workflows** | I have led AI agent and LLM-assisted workflows across product discovery and customer service operations, improving productivity and service economics. |
 | **Growth and monetisation** | I connect AI and platform work to subscription growth, conversion, retention, pricing, payments, billing, and customer lifecycle value. |
 | **Responsible AI execution** | I make risks explicit through human-in-the-loop design, failure-mode thinking, quality measures, compliance considerations, and post-launch monitoring. |
 | **Executive leadership** | I lead multi-squad, cross-functional teams across product, design, engineering, data, marketing, operations, and senior stakeholders. |
 
-## Featured Portfolio
+## Public Work Direction
 
-| Repository | What it demonstrates |
+I keep strategic playbooks, internal-style product artefacts, and sensitive case studies private. The public work I want to show here is more selective and evidence-based: projects that demonstrate **analysis, product judgement, AI-assisted productivity, experimentation, and commercial reasoning** without exposing confidential operating material.
+
+| Public evidence area | What it should demonstrate |
 |---|---|
-| [`ai-pm-portfolio`](https://github.com/pierabretton/ai-pm-portfolio) | AI Product Management case studies, PRDs, metrics trees, decision logs, and leadership artefacts. |
-| [`ai-product-playbooks`](https://github.com/pierabretton/ai-product-playbooks) | Practical playbooks for AI discovery, evaluation, responsible launch, and product operating models. |
-| [`pierabretton`](https://github.com/pierabretton/pierabretton) | My profile README, AI PM leadership positioning, and public career profile assets. |
+| **Python / EMBA analysis projects** | Research discipline, quantitative thinking, segmentation, modelling, survey analysis, and executive synthesis. |
+| **AI pricing assistant / product websites** | Ability to translate an AI-enabled product concept into a usable customer workflow, proposition, UX, and launchable artefact. |
+| **Commercial benchmarking** | Pricing, checkout, subscription, payments, and conversion judgement grounded in market evidence. |
+| **Product strategy artefacts** | Clear problem framing, opportunity sizing, hypotheses, metrics, risks, and decision-making structure. |
 
 ## How I Approach AI Product Work
 
 | Product question | What I make visible |
 |---|---|
 | **Why this problem?** | Customer pain, market context, strategic timing, commercial value, and the cost of inaction. |
-| **What should be built?** | PRDs, user journeys, opportunity sizing, value hypotheses, scope, sequencing, and success metrics. |
-| **How should AI be used?** | LLM or agent workflow design, data needs, model behaviour, evaluation approach, guardrails, and human-in-the-loop controls. |
+| **What is the bet?** | The product thesis, target workflow, expected behaviour change, investment case, and measurable outcome. |
+| **How should AI help?** | Where AI improves speed, quality, discovery, decision-making, personalisation, or operational leverage — and where it should not be used. |
 | **How do we know it works?** | Product analytics, experiment design, quality measures, adoption, retention, service impact, and feedback loops. |
 | **How do we launch responsibly?** | Risk register, failure modes, model limitations, operational readiness, compliance considerations, and post-launch monitoring. |
 
 ## Current Focus
 
-I am especially interested in **agentic workflows, AI-assisted decision-making, product discovery, customer experience, monetisation, subscription growth, payments, and responsible AI adoption**. I use GitHub to make that thinking concrete through artefacts that product, design, data, and engineering teams can use together.
+I am especially interested in **agentic workflows, AI-assisted decision-making, product discovery, customer experience, monetisation, subscription growth, pricing, payments, and responsible AI adoption**. I use GitHub selectively to make that thinking concrete through public artefacts that are safe to share and useful for product, design, data, and engineering audiences.
 
 ## Career Profile
 
 My latest AI PM leadership CV is available in this profile repository: **[`Piera_Bretton_AI_PM_Leader_CV_2026.pdf`](./Piera_Bretton_AI_PM_Leader_CV_2026.pdf)**.
 
+---
+
+If you are building AI products where the hard part is not just the model, but the customer workflow, trust, adoption, operating model, and business case around it, I would be happy to connect.
